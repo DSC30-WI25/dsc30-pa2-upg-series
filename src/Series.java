@@ -112,7 +112,7 @@ public class Series {
       *
       */
      public void fillNullWithMean() {
-         // TODO: Implement fillNullwithMean method
+         // TODO: Implement fillNullWithMean method
          // Handle ArithmeticException that could be raised from mean()
      }
  }
