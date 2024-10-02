@@ -111,7 +111,7 @@ public class Series {
       * Replace any data value that is null with the mean of the Series.
       *
       */
-     public void fillNullwithMean() {
+     public void fillNullWithMean() {
          // TODO: Implement fillNullwithMean method
          // Handle ArithmeticException that could be raised from mean()
      }
