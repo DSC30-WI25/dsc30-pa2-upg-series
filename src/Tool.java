@@ -5,9 +5,9 @@ public class Tool {
      *
      * @param s the Series object to calculate the mean from
      */
-    public static double mean(Series s) throws ArithmeticException {
+    public static Integer mean(Series s) throws ArithmeticException {
         // TODO: Implement mean calculation
-        return 0.0;
+        return 0;
     }
 
     /**
